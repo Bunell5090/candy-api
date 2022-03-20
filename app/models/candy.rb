@@ -1,2 +1,3 @@
 class Candy < ApplicationRecord
+  
 end

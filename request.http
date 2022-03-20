@@ -1,0 +1,24 @@
+### Candy Index
+GET http://localhost:3000/candies
+
+### Candy Create
+POST http://localhost:3000/candies
+Content-Type: application/json
+
+
+### Candy Show
+GET http://localhost:3000/candies
+
+### Candy Update
+PATCH http://localhost:3000/candies
+
+
+### Candy Delete
+DELETE http://localhost:3000/candies
+
+
+### Manufacturer Index
+GET http://localhost:3000/manufacturers
+
+### Wholesaler Index
+GET http://localhost:3000/wholesalers
